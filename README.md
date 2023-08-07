@@ -3,7 +3,7 @@ Task Manager with React.js on the frontend and a mock backend using JSON-Server.
 
 ## Scripts
 
-### `npm install'
+### `npm install`
 Install dependencies.
 
 ### `npm start`
