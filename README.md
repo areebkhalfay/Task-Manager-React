@@ -1,5 +1,6 @@
 # Task Manager React
 Task Manager with React.js on the frontend and a mock backend using JSON-Server.\
+
 Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts and what they do
