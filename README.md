@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Task Manager React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Task Manager with React.js on the frontend and a mock backend using JSON-Server.
+
+## Scripts and what they do
+
+### `npm start`
+Runs the development server on http://localhost:3000/
+
+### `npm install -g serve`, `serve -s build -p 8000`
+First script: Installs serve module for product server deployment
+Second script: Runs build serve on http://localhost:8000
+
+### `npm install json-server`, `npm run server`
+First script: Installs JSON-Server(Mock Backend REST API)
+Second script: Runs Mock Backend Server(set in package.json to run on http://localhost:5000)
 
 ## Available Scripts
 
