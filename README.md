@@ -14,7 +14,7 @@ Second script: Builds the app for production to the build folder.\
 Second script: Runs production server on [http://localhost:8000](http://localhost:8000).
 
 ### `npm install json-server`, `npm run server`
-First script: Installs JSON-Server(Mock Backend REST API)\
+First script: Installs JSON-Server(Mock Backend REST API).\
 Second script: Runs Mock Backend Server(set in package.json to run on [http://localhost:5000](http://localhost:5000)).
 
 ## Default Available Scripts
