@@ -6,18 +6,18 @@ A Task Manager with React.js on the frontend and a mock backend using JSON-Serve
 ## Scripts and what they do
 
 ### `npm start`
-Runs the development server on http://localhost:3000/.\
+Runs the development server on [http://localhost:3000](http://localhost:3000).\
 
 ### `npm install -g serve`, `npm run build`, `serve -s build -p 8000`
 First script: Installs serve module for production server deployment.\
 Second script: Builds the app for production to the build folder.\
-Second script: Runs production server on http://localhost:8000/.\
+Second script: Runs production server on [http://localhost:8000](http://localhost:8000).\
 
 ### `npm install json-server`, `npm run server`
 First script: Installs JSON-Server(Mock Backend REST API)\
-Second script: Runs Mock Backend Server(set in package.json to run on http://localhost:5000).\
+Second script: Runs Mock Backend Server(set in package.json to run on [http://localhost:5000](http://localhost:5000)).\
 
-## Available Scripts
+## Default Available Scripts
 
 In the project directory, you can run:
 
